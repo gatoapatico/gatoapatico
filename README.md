@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MasterHead](https://drive.google.com/file/d/1RIwr_Kn1JaXMc5JoI1WwDCLFqHeG8inp/view?usp=share_link)
+![MasterHead](https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/05/02124829/Software-Engineer.png)
 
 <!--
 **gatoapatico/gatoapatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
