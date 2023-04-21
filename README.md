@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MasterHead](https://i.imgur.com/l7nNEzx.jpeg)
+![MasterHead](https://i.imgur.com/e8nGOuB.png)
 
 <!--
 **gatoapatico/gatoapatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
