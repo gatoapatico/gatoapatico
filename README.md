@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Azure-Player/icons-and-symbols/blob/df02bdf6e638959f62214c79ce51738076b52b89/popular/power-bi-vector-logo.svg" alt="powerbi"/>
+  <img src="https://github.com/Azure-Player/icons-and-symbols/blob/df02bdf6e638959f62214c79ce51738076b52b89/popular/power-bi-vector-logo.svg" alt="powerbi" width="150" height="50"/>
 </a>
 
 <!--
