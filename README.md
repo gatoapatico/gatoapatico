@@ -1,5 +1,8 @@
 ![MasterHead](https://i.imgur.com/e8nGOuB.png)
 <h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
+<h3>Data Analyst</h3>
+<br>
+<img align="right" alt="coding" width="400" src = "https://i.imgur.com/uJ3udKq.gif">
 
 <!--
 **gatoapatico/gatoapatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
