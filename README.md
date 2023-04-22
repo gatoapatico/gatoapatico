@@ -1,9 +1,11 @@
 ![MasterHead](https://i.imgur.com/e8nGOuB.png)
 <h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
-<h3>Data Analyst</h3>
+<h3 align="center">Data Analyst</h3>
 <br>
 <img align="right" alt="coding" width="400" src = "https://i.imgur.com/uJ3udKq.gif">
 
+- 🔭 I’m currently working on a **Data Analysis Map project about Peru.**
+- 💬 Ask me about **SQL, POWER BI, Excel(macros)**
 <!--
 **gatoapatico/gatoapatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
