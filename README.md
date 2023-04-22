@@ -12,15 +12,41 @@
 <a href="https://www.linkedin.com/in/aferzu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gatoapatico" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-</a>
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/Rlogo.png" alt="r" width="50" height="39"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/8361/8361459.png" alt="excelmacros" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
+    <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" alt="oracleplsql" width="40" height="40"/>
+  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+</p>
+
+<br>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gatoapatico&show_icons=true&locale=en" alt="gatoapatico" />
+</p>
 
 <!--
 **gatoapatico/gatoapatico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
