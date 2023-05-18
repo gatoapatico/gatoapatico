@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/e8nGOuB.png)
+![MasterHead](https://i.imgur.com/GZwQBq8.gif)
 <h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
 <h3 align="center">Data Analyst</h3>
 <br>
