@@ -3,6 +3,7 @@
 <h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
 <h3 align="center">Full Stack Developer</h3>
 <br>
+
 <img align="right" alt="AFZ gif" width="400" src="https://github.com/gatoapatico/gatoapatico/blob/ffa9c16b6b5b475817f5e1a7c3db626c86d5817b/afz.gif">
 
 🔭 Currently working on a **hotel reservation system using a microservices architecture and RESTful APIs.**
