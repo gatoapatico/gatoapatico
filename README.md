@@ -1,11 +1,9 @@
-![MasterHead](https://i.imgur.com/GZwQBq8.gif)
-![MasterHead](https://i.imgur.com/la560Fc.gif)
-![Alt Text](https://i.imgur.com/la560Fc.gif)
-<img alt="coding" src = "https://i.imgur.com/la560Fc.gif">
+![Gif Marisol](https://github.com/gatoapatico/gatoapatico/blob/ffa9c16b6b5b475817f5e1a7c3db626c86d5817b/gif-marisol.gif)
+
 <h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
 <h3 align="center">Full Stack Developer</h3>
 <br>
-<img align="right" alt="coding" width="400" src = "https://i.imgur.com/uJ3udKq.gif">
+<img align="right" alt="AFZ gif" width="400" src="https://github.com/gatoapatico/gatoapatico/blob/ffa9c16b6b5b475817f5e1a7c3db626c86d5817b/afz.gif">
 
 🔭 Currently working on a **hotel reservation system using a microservices architecture and RESTful APIs.**
 
