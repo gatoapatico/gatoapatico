@@ -40,7 +40,7 @@
  <p align="left">
    
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/>
   </a>
   
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
