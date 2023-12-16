@@ -2,16 +2,12 @@
 
 <h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
 <h3 align="center">Full Stack Developer</h3>
-<br>
+<br></br>
 
-<!--
-> [!important]
+> [!note]
 > Currently working on a <b>hotel reservation system using a<br>microservices architecture and RESTful APIs.
--->
-<p align="right">Currently working on a <b>hotel reservation system using a<br>microservices architecture and RESTful APIs.</b></p> 
+
 <img align="right" alt="AFZ gif" width="400" src="https://github.com/gatoapatico/gatoapatico/blob/ffa9c16b6b5b475817f5e1a7c3db626c86d5817b/afz.gif">
-
-
 
 <h3 align="left">Connect with me:</h3>
 
