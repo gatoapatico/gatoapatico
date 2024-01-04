@@ -14,6 +14,31 @@
 
 <a href="https://www.linkedin.com/in/aferzu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gatoapatico" height="30" width="40" /></a>
 
+<h3>Backend</h3>
+ <p align="left">
+   
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" height="40"/>
+  </a>
+
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="spring" width="40" height="40"/>
+  </a>
+  
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="spring boot" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/>
+  </a>
+   
+</p>
+
 <h3 align="left">Frontend:</h3>
 <p align="left">
 
@@ -39,34 +64,20 @@
   
 </p>
 
-
-<h3>Backend</h3>
- <p align="left">
-   
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/>
-  </a>
-  
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="spring boot" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/>
-  </a>
-   
-</p>
-
 <h3 align="left">Tools:</h3>
 
 <p align="left">
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" height="40"/>
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="azure" width="40" height="40"/>
   </a>
 
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
