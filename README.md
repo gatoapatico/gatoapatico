@@ -1,6 +1,6 @@
 ![Gif Libertador](https://github.com/gatoapatico/gatoapatico/blob/media/gif-libertador.gif)
 
-<h1 align="center">I'm Álvaro, Welcome to my profile!</h1>
+<h1 align="center">I'm Álvaro, Welcome to my Profile!</h1>
 <h3 align="center">Full Stack Developer</h3>
 <br></br>
 
