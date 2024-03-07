@@ -36,6 +36,10 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/>
   </a>
+
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="40" height="40"/>
+  </a>
    
 </p>
 
