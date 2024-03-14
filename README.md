@@ -40,6 +40,10 @@
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="40" height="40"/>
   </a>
+
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="mockito" width="40" height="40"/>
+  </a>
    
 </p>
 
